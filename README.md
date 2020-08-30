@@ -1,2 +1,6 @@
 # Sign_mnist
 Kaggle dataset model for hand signs
+
+Kaggle Dataset link https://www.kaggle.com/datamunge/sign-language-mnist
+
+![alt text](https://storage.googleapis.com/kagglesdsdata/datasets%2F3258%2F5337%2Famer_sign2.png?GoogleAccessId=databundle-worker-v2@kaggle-161607.iam.gserviceaccount.com&Expires=1598889127&Signature=ctNWQ%2B1AKzJklDsQrVJSn09DM1Uj%2FSajsYC2Y%2BuqT934PfTn5ZRrVi6Txa8dYYnftWRfAmiddnElufzUo%2FGLtEzxpoQnOf8zcOLKFV3TdRESBzpW2hmcTfVKwcowWs3jVikEOvpKOlTtPGxOkuR0oEcQT2nSwuQccNL2ZOLgfjBplqrtPnPQ%2F2L1pkSFAs2SyeKpscVUfE0Eh7FC0Jx5lHyT8XzSW7BV233m2NJGx5P5KeXDQoAaQ9PjVgfoN29qLyPnnQtwoIgW6QODV7b%2FN93uYiToPBcNWayN58tavSoHIUhEfBob8EJPnhdj0qnJ0zOhYV%2BsjuJGwy7soMfdDA%3D%3D)
